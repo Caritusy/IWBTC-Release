@@ -1,3 +1,4 @@
+日本語版:https://github.com/Caritusy/IWBTC-Release/blob/main/README-JP.md
 # IWBTC-Release
 Upload all versions of iwbtc here.
 
